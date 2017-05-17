@@ -1,7 +1,9 @@
 # Codepath-Web-Security
 
-
-* Answers to all web security labs: [Labs](https://github.com/sammanthp007/Web-Securities-Labs)
+## Labs
+* [Setting up and pentesting minimalistic wordpress exploit using wpscan](https://github.com/sammanthp007/WordPress-Pentesting-Setup)
+* [Using metaspoilt and meterpreter to perform footprinting in wordpress:4.2.2 site](https://github.com/sammanthp007/WordPress-VS-Kali-II-setup)
+* Answers to all rest web security labs: [Labs](https://github.com/sammanthp007/Web-Securities-Labs)
 
 ## Projects
 1. [Create Registration for Globitek](https://github.com/sammanthp007/Globitek-CMS)
