@@ -1,4 +1,4 @@
-# Codepath-Web-Security
+# Codepath Web Security
 
 ## Labs
 * [Setting up and pentesting minimalistic wordpress exploit using wpscan](https://github.com/sammanthp007/WordPress-Pentesting-Setup)
